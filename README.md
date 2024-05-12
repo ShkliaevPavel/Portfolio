@@ -6,9 +6,12 @@ Here you can find my study projects:
   + [Python](https://github.com/ShkliaevPavel/Portfolio/tree/Python)
   + [SQL](https://github.com/ShkliaevPavel/Portfolio/tree/SQL)
 
-When I was a clinical research associate I've never been satisfied how project information being stored.
-To make it more transparent for all placeholders I started creating PowerBI reports.
-I gathered main information about projets and it looks much better and user-friendly
+When I was a clinical research associate I've never been satisfied how project information being stored.<br/>
+To make it more transparent for all placeholders I started creating PowerBI reports.<br/>
+I gathered main information about projects and it looks much better and user-friendly.<br/>
+I'm still working on it...<br/>
+![!](https://github.com/ShkliaevPavel/Portfolio/blob/main/prf.png)
+
 
 Some examples:
 1. What's the name of that project where...There is so much colleagues...
@@ -39,3 +42,8 @@ https://github.com/ShkliaevPavel/Portfolio/assets/169291406/1e91ec06-b17a-4ddb-9
 
 https://github.com/ShkliaevPavel/Portfolio/assets/169291406/bd08cd55-e64a-446c-ae4a-2e342efb870b
 
+Couple months ago my ex-colleague asked me to help with her psycology start-up.<br/>
+So i did a [mini-report in Looker](https://lookerstudio.google.com/reporting/0db3861e-57cb-40e5-af72-078a71b49b91)<br/>
+<p align="left">
+ <img width="800px" src="psy.png" alt="qr"/>
+</p>
