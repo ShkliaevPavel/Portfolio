@@ -6,7 +6,7 @@ Here you can find my study projects:
   + [Python](https://github.com/ShkliaevPavel/Portfolio/tree/Python)
   + [SQL](https://github.com/ShkliaevPavel/Portfolio/tree/SQL)
 
-When I was a clinical research associate I've never been satisfied how project information being stored.<br/>
+When I worked as a clinical research associate I was never satisfied how project information being stored.<br/>
 To make it more transparent for all placeholders I started creating PowerBI reports.<br/>
 I gathered main information about projects and it looks much better and user-friendly.<br/>
 I'm still working on it...<br/>
@@ -20,14 +20,14 @@ Some examples:
 
 https://github.com/ShkliaevPavel/Portfolio/assets/169291406/f468a2a2-538c-426d-9fa3-77b21c90ac43
 
-2. Enrollment status: a very significant information for project team!
+2. Enrollment status: a very significant information for a project team!
     + Now you can see detailed info: Screened / Enrolled / Target etc
     + For each country / region and global status
-    + Quick analysis to be sure your project is it timelines (or not...)
+    + Quick analysis to be sure your project is in timelines (or not...)
     
   https://github.com/ShkliaevPavel/Portfolio/assets/169291406/c05b89fc-414a-4f20-995b-3522fd963ea6
 
-3. Go deeper and find out where you have better results and where some isuues meed to be fixed
+3. Go deeper and find out where you have better results and where some issues need to be fixed
    + You always have plan vs fact
    + Trendline shows where you will be
 
