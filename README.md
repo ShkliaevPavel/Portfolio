@@ -7,7 +7,7 @@ Here you can find my study projects:
   + [SQL](https://github.com/ShkliaevPavel/Portfolio/tree/SQL)
 
 When I worked as a clinical research associate I was never satisfied how project information being stored.<br/>
-To make it more transparent for all placeholders I started creating PowerBI reports.<br/>
+To make it more transparent for all stakeholders I started creating PowerBI reports.<br/>
 I gathered main information about projects and it looks much better and user-friendly.<br/>
 I'm still working on it...<br/>
 ![!](https://github.com/ShkliaevPavel/Portfolio/blob/main/prf.png)
