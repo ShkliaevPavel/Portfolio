@@ -11,6 +11,7 @@ To make it more transparent for all stakeholders I started creating PowerBI repo
 I gathered main information about projects and it looks much better and user-friendly.<br/>
 I'm still working on it...<br/>
 ![!](https://github.com/ShkliaevPavel/Portfolio/blob/main/prf.png)
+![!](https://github.com/ShkliaevPavel/Portfolio/blob/main/prf2.png)
 
 
 Some examples:
