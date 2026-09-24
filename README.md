@@ -1,10 +1,6 @@
-# Portfolio
+# Project review form
 <div id = "header" align = "left">
   <h1> Let me show you something...</h1>
-
-Here you can find my study projects:
-  + [Python](https://github.com/ShkliaevPavel/Portfolio/tree/Python)
-  + [SQL](https://github.com/ShkliaevPavel/Portfolio/tree/SQL)
 
 When I worked as a clinical research associate I was never satisfied how project information being stored.<br/>
 To make it more transparent for all stakeholders I started creating PowerBI reports.<br/>
@@ -43,8 +39,8 @@ https://github.com/ShkliaevPavel/Portfolio/assets/169291406/1e91ec06-b17a-4ddb-9
 
 https://github.com/ShkliaevPavel/Portfolio/assets/169291406/bd08cd55-e64a-446c-ae4a-2e342efb870b
 
-Couple months ago my ex-colleague asked me to help with her psycology start-up.<br/>
-So i did a [mini-report in Looker](https://lookerstudio.google.com/reporting/0db3861e-57cb-40e5-af72-078a71b49b91)<br/>
-<p align="left">
+Here you can find my study projects:
+  + [Python](https://github.com/ShkliaevPavel/Portfolio/tree/Python)
+  + [SQL](https://github.com/ShkliaevPavel/Portfolio/tree/SQL)
  <img width="800px" src="psy.png" alt="qr"/>
 </p>
